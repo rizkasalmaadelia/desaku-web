@@ -2,33 +2,33 @@
     <div class="container">
         <div class="flex warp align-center row">
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <img src="/desaku/assets/icon/logo.svg" alt="">
+                <img src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418685/desaku/icon/logo_woxlcf.svg" alt="">
                 <span>&nbsp;</span>
-                <a href="/desaku">
+                <a href="/">
                     <span class="navbar-item">Desaku</span>
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <img class="none" src="/desaku/assets/icon/kategori_icon.svg" alt="">
+                <img class="none" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418706/desaku/icon/kategori_icon_zewtke.svg" alt="">
                 <span>&nbsp;</span>
                 <a href="">
                     <span class="navbar-item">Kategori</span>
                 </a>            
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="/desaku" class="button-hovered">
+                <a href="/" class="button-hovered">
                     <button class="navbar-backgrond"></button>
                     <span class="navbar-item actived">Beranda</span>
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="/desaku/toko.php"><span class="navbar-item active">Toko Online</span></a>
+                <a href=""><span class="navbar-item active">Toko Online</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="/desaku/pembelajaran-online.php"><span class="navbar-item active">Pembelajaran</span></a>
+                <a href=""><span class="navbar-item active">Pembelajaran</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <img src="/desaku/assets/icon/search.svg" alt="">
+                <img src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418685/desaku/icon/search_sdbb5e.svg" alt="">
                 <input class="search" type="text" placeholder="Cari apa saja">
             </div>
 
