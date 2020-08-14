@@ -1,7 +1,8 @@
 <script>
     import { Router, Route, Link } from "svelte-routing";
 	import { onMount } from "svelte";
-	import Navbar from "../../components/navbar"
+    import Navbar from "../../components/navbar";
+    import Footer from "../../components/footer";
 </script>
 
 <Navbar/>
@@ -10,10 +11,10 @@
     <div class="background">
         <div class="container">
             <div class="flex warp align-center row">
-                <p class="top-90">#SatuDesaSatuKeterampiran</p>
+                <p class="top-90">#SatuDesaSatuProduk</p>
             </div>
             <div class="flex warp align-center row">
-               <h1>Ayo Bersama Kita Wujudkan Ekonomi Kreatif Indonesia. Dimulai Dari Pengoptimalan Sumber Daya Desa Secara Maksimaml</h1>
+               <h1>Ayo Bersama Kita Wujudkan Ekonomi Kreatif Indonesia. Dimulai Dari Pengoptimalan Sumber Daya Desa Secara Maksimal</h1>
             </div>
             <hr class="">
         </div>
@@ -115,7 +116,7 @@
                     <hr class="full testi top-30">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418772/desaku/image/kades/kepala-desa-3_qctpey.png" alt="kepala desa">
                     <div class="title-testimoni">
-                        <span class="nama color-white">Rayhan Rafiud Darojat</span><br>
+                        <span class="nama color-white">Dwicky Danov Iswardanu</span><br>
                         <span class="color-main">Kepala Desa Pekuncen</span>
                     </div>
                 </div>
@@ -124,7 +125,7 @@
     </div>
 </body>
 
-
+<Footer/>
 
 
 <style>
