@@ -1,7 +1,7 @@
 <script>
   import { Router, Route, Link } from "svelte-routing";
-  import Home from "./Login.svelte";
-  import Video from "./Video.svelte";
+  import Home from "./pages/beranda";
+  import Video from "./pages/video";
   export let url = ""; //This property is necessary declare to avoid ignore the Router
 </script>
 
