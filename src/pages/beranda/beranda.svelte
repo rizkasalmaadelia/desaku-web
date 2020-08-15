@@ -3,6 +3,8 @@
 	import { onMount } from "svelte";
     import Navbar from "../../components/navbar";
     import Footer from "../../components/footer";
+    import CardToko from "../../components/cardToko";
+    import * as dataToko from "../../data/toko";
 </script>
 
 <Navbar/>
@@ -21,6 +23,29 @@
     </div>
 
 	<!-- card pembelajaran -->
+    <br><br>
+   <div class="card-toko-onRes">
+        <div class="container">
+            <hr class="title">
+            <div class="row flex warp">
+                <h3 class="top-10 flex flex-10">Toko Online</h3>
+                <a href="/desaku/toko.php">
+                    <span class="flex right color-main">Lihat Selengkapnya</span>
+                </a>            
+            </div>
+
+            <div class="row flex warp top-30">
+                {#each dataToko.default[0].favoriteToko as datas}
+                    <CardToko 
+                        productName={datas.productName}
+                        productImage={datas.productImage}
+                        productPrice={datas.productPrice}
+                        starCount={datas.starCount}
+                    />
+                {/each}
+            </div>
+        </div>
+    </div>
 
     <div class="kenapa-desaku top-80">
         <div class="container">
