@@ -2,7 +2,7 @@
     <div class="container">
         <div class="flex res-foot">
             <div class="flex-3 flex-xs-12">
-                <img class="top-30" src="./assets/icon/logo-footer.svg" alt="">
+                <img class="top-30" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418686/desaku/icon/logo-footer_uojlxa.svg" alt="">
                 <p class="top-30 color-white">Desaku adalah sebuah platform untuk saling belajar kerajinan unggulan dari setiap desa di Indonesia dan dapat menjual produk Desa disini.</p>
                 <p class="top-90 color-white">2020 © Test - All right reserved</p>
             </div>
