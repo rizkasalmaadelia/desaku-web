@@ -3,7 +3,7 @@
     import { Tabs, Tab, TabList, TabPanel } from 'svelte-tabs';
     import { onMount } from "svelte";
     
-	import NavbarWhite from "../../components/navbarWhite";
+	import NavbarWhite from "../../components/navbarWhiteProgram";
 	import Footer from "../../components/footer"
     import CardToko from "../../components/cardToko";
     

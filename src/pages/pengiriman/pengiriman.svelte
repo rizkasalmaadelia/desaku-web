@@ -19,7 +19,7 @@
             <div class = "flex">
                 <div class = "row right-60">
                     <h4>Nama penerima</h4>
-                    <input type = "text" class="form" placeholder = "Ex : Timotius Mulyawan">
+                    <input type = "text" class="form" placeholder = "Ex : Rizka Salma">
                 </div>
                 <div class = "row right-50">
                     <h4>No. Hp</h4>

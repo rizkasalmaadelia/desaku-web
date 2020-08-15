@@ -35,10 +35,10 @@
             </div>
 
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen login">
-                <img src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597499675/desaku/image/Ellipse_2.5_m746d3.png" alt="timot">
+                <a href="?"><span class="navbar-item color-black">Login</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="?"><span class="navbar-item color-black">Timotius</span></a>
+                <a href="?"><span class="navbar-item color-black">Register</span></a>
             </div>
 
             <div class="hidden">

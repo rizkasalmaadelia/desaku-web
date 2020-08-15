@@ -81,7 +81,7 @@ span {
     font-weight: 300;
 }
 .navbar {
-    padding-top: 20px;
+    padding-top: 45px;
     padding-bottom: 45px;
     background: url("https://res.cloudinary.com/sarjanalidi/image/upload/v1597418736/desaku/image/navbar_yjnzjt.png");
     background-size: cover;
@@ -812,4 +812,8 @@ select {
 .svelte-tabs__tab:focus {
     outline: none !important;
     text-align: left !important;
+}
+
+button:focus, input:focus {
+    outline: none;
 }

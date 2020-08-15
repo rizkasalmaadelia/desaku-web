@@ -170,18 +170,18 @@
             <div class="row flex warp top-30 full-width">
                 <div class="card-testi flex-4 flex-xs-9 flex-s-9">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418702/desaku/icon/petik_njp7lk.svg" alt="petik" srcset="">
-                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga kece badei bro heheajaya keren sih ini aseli</p>
+                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga semakin semangat untuk beraktivitas. #SatuDesaSatuProduk</p>
                     <hr class="full testi top-30">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418766/desaku/image/kades/kepala-desa_hnyozh.png" alt="kepala desa">
                     <div class="title-testimoni">
-                        <span class="nama color-white">Timotius Muliawan</span><br>
+                        <span class="nama color-white">Rizka Salma</span><br>
                         <span class="color-main">Kepala Desa Kedungwringin</span>
                     </div>
                 </div>
 
                 <div class="card-testi flex-4 left-20 none">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418702/desaku/icon/petik_njp7lk.svg" alt="petik" srcset="">
-                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga kece badei bro heheajaya keren sih ini aseli</p>
+                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga semakin semangat untuk beraktivitas. #SatuDesaSatuProduk</p>
                     <hr class="full testi top-30">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418772/desaku/image/kades/kepala-desa-2_n192vh.png" alt="kepala desa">
                     <div class="title-testimoni">
@@ -192,7 +192,7 @@
 
                 <div class="card-testi flex-4 left-20 none">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418702/desaku/icon/petik_njp7lk.svg" alt="petik" srcset="">
-                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga kece badei bro heheajaya keren sih ini aseli</p>
+                    <p class="text-testi">Awalnya Desa Blimbingan hanyalah sebatas Desa pada umumnya. Masyarakat disini hanya menjadi petani, tapi setelah saya mengenal Desaku, masyarakat disini mulai belajar kerajinan dari desa lain. Sekarang ekonomi desa kami meningkat cukup drastis masyarakt juga semakin semangat untuk beraktivitas. #SatuDesaSatuProduk</p>
                     <hr class="full testi top-30">
                     <img class="petik" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418772/desaku/image/kades/kepala-desa-3_qctpey.png" alt="kepala desa">
                     <div class="title-testimoni">
