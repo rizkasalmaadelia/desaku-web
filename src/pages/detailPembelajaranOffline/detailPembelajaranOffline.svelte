@@ -13,7 +13,7 @@
 <NavbarWhite/>
 
 <div class="background-detail">
-    <h3 class="center">Pelatihan Membuat Kerajinan Lidi Expert</h3>
+    <h3 class="center">Pelatihan Offline Membuat Kerajinan Lidi Expert</h3>
 </div>
 
 <div class="container-detail">
@@ -26,15 +26,23 @@
         </TabList>
         
         <TabPanel>
-            <p class="text__desc">Pemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tangg Pemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tangg</p>
+            <p class="text__desc">Pemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat 
+            sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggal 21 Agustus 2020.
+            Acara ini ditujukan untuk masyarakat yang ingin belajar lebih dalam tentang dunia perlidian, dan harapanya
+            pelatihan ini bisa membuat masyarakat menjadi mempunya skill. Dari skill inilah masyarakat bisa meningkatkan ekonomi keluarga sendiri
+            </p>
             
             <br>
             <h4 class="text__subtitle">Kapan Acara dilaksanakan ?</h4>
-            <p>27 Januari 2020</p>
+            <p>21 Agustus 2020</p>
 
             <br><br>
             <h4 class="text__subtitle">Harga Pelatihan</h4>
-            <p>Rp. 70.000</p>
+            <p>Rp. 80.000</p>
+
+            <br><br>
+            <h4 class="text__subtitle">Alamat</h4>
+            <p>Desa Kedungwringin, Kecamatan Jatilawang, Kabupaten Banyumas</p>
 
             <br><br>
             <h4 class="text__subtitle">Disusun oleh</h4>
@@ -51,16 +59,16 @@
                 <p>1. Pengenalan Tentang Kerajinan Lidi</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>2. Belajar Mencari Lidi Yang Bagus</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>3. Membuat Anyaman Dasar Bawah</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>4. Membuat Anyaman Samping</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>5. Membuat Anyaman Bawah Lidi</p>
             </div>
         </TabPanel>
         

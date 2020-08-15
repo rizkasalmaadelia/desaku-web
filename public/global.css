@@ -174,6 +174,25 @@ span {
 	justify-content: center !important;
 }
 
+.background-detail-online {
+    background: url("https://res.cloudinary.com/sarjanalidi/image/upload/v1597477003/desaku/image/detail-1_rennlu.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    z-index: 1;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center;
+}
+
+.background-detail-online h3 {
+    display: flex;
+    align-items: center !important;
+	justify-content: center !important;
+}
+
+
 .background p {
     opacity: 0.8;
     padding-top: 238px;

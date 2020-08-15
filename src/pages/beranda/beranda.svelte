@@ -28,7 +28,7 @@
         <div class="container">
             <hr class="title">
             <div class="row flex warp">
-                <h3 class="top-10 flex flex-10">Video Pembelajaran Keterampilan</h3>
+                <h3 class="top-10 flex flex-10">Pembelajaran Online</h3>
                 <a href="/pembelajaran/online">
                     <br>
                     <span class="flex right color-main">Lihat Selengkapnya</span>

@@ -12,8 +12,8 @@
 
 <NavbarWhite/>
 
-<div class="background-detail">
-    <h3 class="center">Pelatihan Tas Kulit</h3>
+<div class="background-detail-online">
+    <h3 class="center">Pelatihan Online Membuat Anyaman Tas</h3>
 </div>
 
 <div class="container-detail">
@@ -26,19 +26,19 @@
         </TabList>
         
         <TabPanel>
-            <p class="text__desc">Pemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tangg Pemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tanggPemerintah Desa Jatilawang bekerjasama dengan dinas tenaga kerja membuat sebuah workshop "Pelatihan Membuat Keajinan Lidi Expert"yang diadakan tangg</p>
-            
+            <p class="text__desc">Pemerintah Desa Pekuncen bekerjasama dengan dinas tenaga kerja membuat 
+            sebuah workshop "Pelatihan Online Membuat Anyaman Tas",
+            Acara ini ditujukan untuk masyarakat yang ingin belajar lebih dalam tentang dunia industri kerajinan, dan harapanya
+            pelatihan ini bisa membuat masyarakat menjadi mempunya skill. Dari skill inilah masyarakat bisa meningkatkan ekonomi diri sendiri maupun keluarga. 
+            Dengan harga pelatihan yang sangat terjangkau, kamu sudah bisa mempunyai kemampuan yang mumpuni
+            </p>            
             <br>
-            <h4 class="text__subtitle">Kapan Acara dilaksanakan ?</h4>
-            <p>27 Januari 2020</p>
-
-            <br><br>
             <h4 class="text__subtitle">Harga Pelatihan</h4>
             <p>Rp. 70.000</p>
 
             <br><br>
             <h4 class="text__subtitle">Disusun oleh</h4>
-            <p>Team Kerajinan Desa Kedungwringin</p>
+            <p>Team Kerajinan Desa Pekuncen</p>
 
             <br><br>
             <div class="center">
@@ -50,19 +50,19 @@
         
         <TabPanel>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>1. Pengenalan Tentang Anyaman Tas</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>2. Mencari Bahan</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>3. Membuat Pondasi Anyaman</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>4. Mulai Menganyam</p>
             </div>
             <div class="card-silabus">
-                <p>1. Pengenalan Tentang Kerajinan Lidi</p>
+                <p>5. Finishing</p>
             </div>
         </TabPanel>
         
