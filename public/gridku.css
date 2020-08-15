@@ -223,3 +223,8 @@
 .right-min-30 {
     padding-right: 20px !important;
 }
+
+.container-detail{
+    margin-left: 250px;
+    margin-right: 250px;
+}

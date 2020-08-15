@@ -13,7 +13,10 @@
 <NavbarWhite/>
 <div class="container-detail">
     <div class="top-50"></div>
-    <h3 style="color: #29291e" class="center">Piring Lidi</h3>
+    <hr class="title">
+    <div class="row flex warp">
+        <h3 class="top-10 flex flex-10">Piring Lidi</h3>
+    </div>
     <div class="top-30"></div>
     <div class="flex">
         <img class="right-20" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597482311/desaku/image/toko/detail/toko-img_tsvv3r.png" alt="detail toko">

@@ -214,6 +214,36 @@ span {
     padding-left: 10px;
     height: 20px;;
 } 
+.form{
+    background-color: #F2F2F2;
+    border: 0.3px solid #CED9EC;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size: 16px;
+    border-style: groove;
+    height: 50px;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 3px;
+}
+
+.form-area{
+    background-color: #F2F2F2;
+    border: 0.3px solid #CED9EC;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding-left: 20px;
+    font-size: 16px;
+    padding-top: 10px;
+    border-style: groove;
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 3px;
+}
+
 .navbar-backgrond {
     margin-top: -10px;
     background: var(--main-color);
