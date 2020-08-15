@@ -62,7 +62,9 @@
             <br><br>
             <div class="center">
                 <button class="btn-program top-40 right-20" style="background: white;"><p style="color: #996522;">Masukan Keranjang</p></button>
-                <button class="btn-program top-40"><p class="color-white">Beli Sekarang</p></button>
+                <a href="/order/pengiriman">
+                    <button class="btn-program top-40"><p class="color-white">Beli Sekarang</p></button>
+                </a>
             </div>
         </TabPanel>
         
