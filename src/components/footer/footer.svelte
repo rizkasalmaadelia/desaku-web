@@ -8,32 +8,26 @@
             </div>
             <div class="flex-2 flex-xs-6 flex-s-6">
                 <h6 class="top-30 color-main">Community</h6>
-                <p class="color-white top-30">Job Board</p>
-                <p class="color-white top-10">Career Advice</p>
-                <p class="color-white top-10">Pricing</p>
-                <p class="color-white top-10">Assessments</p>
+                <p class="color-white top-30">Assessments</p>
                 <p class="color-white top-10">Powered</p>
             </div>
             <div class="flex-2 flex-xs-6 flex-s-6">
                 <h6 class="top-30 color-main">About Us</h6>
-                <p class="color-white top-30">Job Board</p>
-                <p class="color-white top-10">Career Advice</p>
-                <p class="color-white top-10">Pricing</p>
-                <p class="color-white top-10">Assessments</p>
-                <p class="color-white top-10">Powered</p>
+                <p class="color-white top-30">Career</p>
+                <p class="color-white top-10">Internship</p>
+                <p class="color-white top-10">Blog</p>
+                <p class="color-white top-10">Press</p>
+                <p class="color-white top-10">Contact</p>
             </div>
             <div class="flex-2">
                 <h6 class="top-30 color-main">Help And Support</h6>
-                <p class="color-white top-30">Job Board</p>
-                <p class="color-white top-10">Career Advice</p>
-                <p class="color-white top-10">Pricing</p>
-                <p class="color-white top-10">Assessments</p>
-                <p class="color-white top-10">Powered</p>
+                <p class="color-white top-30">Help</p>
+                <p class="color-white top-10">help@desaku.id</p>
             </div>
             <div class="flex-3">
                 <h6 class="top-30 color-main">Contact Us</h6>
-                <p class="color-white top-30">Job Board</p>
-                <p class="color-white top-10">Career Advice</p>
+                <p class="color-white top-30">Hello@desaku.id</p>
+                <p class="color-white top-10">081437650889</p>
                 <img class="top-20" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418706/desaku/icon/socmed_nq5ohr.svg" alt="">
             </div>
         </div>
