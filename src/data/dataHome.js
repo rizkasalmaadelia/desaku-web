@@ -44,7 +44,35 @@ const data = [
                 "starCount": "4.5"
             }
         ]
-    } 
+    },
+    {
+        favoritePembelajaran : [
+            {
+                "id": 1,
+                "pembelajaranName": "Tas Kulit Bambu",
+                "pembelajaranImage": "https://res.cloudinary.com/sarjanalidi/image/upload/v1597418713/desaku/image/pembelajaran/pembelajaran-1_ud88fn.png",
+                "pembelajaranDesa": "Desa Kedungwringin"
+            },
+            {
+                "id": 1,
+                "pembelajaranName": "Tas Kulit Bambu",
+                "pembelajaranImage": "https://res.cloudinary.com/sarjanalidi/image/upload/v1597418713/desaku/image/pembelajaran/pembelajaran-1_ud88fn.png",
+                "pembelajaranDesa": "Desa Kedungwringin"
+            },
+            {
+                "id": 1,
+                "pembelajaranName": "Tas Kulit Bambu",
+                "pembelajaranImage": "https://res.cloudinary.com/sarjanalidi/image/upload/v1597418713/desaku/image/pembelajaran/pembelajaran-1_ud88fn.png",
+                "pembelajaranDesa": "Desa Kedungwringin"
+            },
+            {
+                "id": 1,
+                "pembelajaranName": "Tas Kulit Bambu",
+                "pembelajaranImage": "https://res.cloudinary.com/sarjanalidi/image/upload/v1597418713/desaku/image/pembelajaran/pembelajaran-1_ud88fn.png",
+                "pembelajaranDesa": "Desa Kedungwringin"
+            }
+        ] 
+    }
 ]
 
 export default data;

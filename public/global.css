@@ -333,7 +333,7 @@ hr {
     }   
     .card-toko {
         display: inline;
-        width: 100%;
+        /* width: 100%; */
         margin-right: 10px !important;
     }
     .card-toko:hover {
@@ -470,7 +470,7 @@ hr {
 }
 .star {
     display: inline;
-    float: right;
+    /* float: right; */
 }
 .harga {
     margin-left: -10px;
@@ -512,7 +512,7 @@ hr {
 }
 .title-kenapa {
     color: white;
-    margin-top: -10px;
+    /* margin-top: -10px; */
     display: inline;
     max-width: 550px !important;
 }

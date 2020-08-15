@@ -4,7 +4,8 @@
     import Navbar from "../../components/navbar";
     import Footer from "../../components/footer";
     import CardToko from "../../components/cardToko";
-    import * as dataToko from "../../data/toko";
+    import CardPembelajaran from "../../components/cardPembelajaran";
+    import * as dataHome from "../../data/dataHome";
 </script>
 
 <Navbar/>
@@ -22,9 +23,33 @@
         </div>
     </div>
 
+    <div class="pembelajaran top-50">
+        <div class="container">
+            <hr class="title">
+            <div class="row flex warp">
+                <h3 class="top-10 flex flex-10">Video Pembelajaran Keterampilan</h3>
+                <a href="">
+                    <span class="flex right color-main">Lihat Selengkapnya</span>
+                </a>
+            </div>
+
+            <div class="row float-left top-30">
+                {#each dataHome.default[1].favoritePembelajaran as datas}
+                    <CardPembelajaran
+                        pembelajaranImage={datas.pembelajaranImage}
+                        pembelajaranName={datas.pembelajaranName}
+                        pembelajaranDesa={datas.pembelajaranName}
+                    />
+                {/each}
+            </div>
+        </div>
+    </div>
+
+    <div style="margin-top:450px !important;"></div>
 	<!-- card pembelajaran -->
+    
     <br><br>
-   <div class="card-toko-onRes">
+    <div class="card-toko-onRes">
         <div class="container">
             <hr class="title">
             <div class="row flex warp">
@@ -35,7 +60,7 @@
             </div>
 
             <div class="row flex warp top-30">
-                {#each dataToko.default[0].favoriteToko as datas}
+                {#each dataHome.default[0].favoriteToko as datas}
                     <CardToko 
                         productName={datas.productName}
                         productImage={datas.productImage}
