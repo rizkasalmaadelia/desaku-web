@@ -17,7 +17,7 @@
     <div class="flex-5 right text-offline">
         <h5 class="color-black title-off">{pembelajaranName}</h5>
         <p class="top-10">{pembelajaranDesc}</p>
-        <p class="top-40 color-main"><a class="color-main" href="?">Lihat Selengkapnya</a></p>
+        <p class="top-40 color-main"><a class="color-main" href="/pembelajaran/offline/detail">Lihat Selengkapnya</a></p>
     </div>
 </div>
 <hr class="full top-30">  

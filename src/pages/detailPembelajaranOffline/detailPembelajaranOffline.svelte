@@ -13,7 +13,7 @@
 <NavbarWhite/>
 
 <div class="background-detail">
-    <h3 class="center">Pelatihan Tas Kulit</h3>
+    <h3 class="center">Pelatihan Membuat Kerajinan Lidi Expert</h3>
 </div>
 
 <div class="container-detail">
@@ -42,9 +42,7 @@
 
             <br><br>
             <div class="center">
-                <a href="/pembelajaran/online/detail/video">
-                    <button class="btn-program top-40"><p class="color-white">Daftar Pelatihan</p></button>                            
-                </a>
+                <button class="btn-program top-40"><p class="color-white">Daftar Pelatihan</p></button>            
             </div>
         </TabPanel>
         

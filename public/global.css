@@ -156,6 +156,24 @@ span {
     z-index: 1;
 }
 
+.background-detail {
+    background: url("https://res.cloudinary.com/sarjanalidi/image/upload/v1597474205/desaku/image/background-detail_aaatvq.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+    z-index: 1;
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center;
+}
+
+.background-detail h3 {
+    display: flex;
+    align-items: center !important;
+	justify-content: center !important;
+}
+
 .background p {
     opacity: 0.8;
     padding-top: 238px;
@@ -533,6 +551,10 @@ hr {
     background: var(--main-color);
     border-radius: 5px;
     border : 1px solid var(--main-color);
+    cursor: pointer;
+}
+.btn-program:hover {
+    background: #996522;
 }
 .color-main {
     color: var(--main-color) !important;
@@ -680,4 +702,33 @@ select {
 }
 .remove-padding {
     margin-bottom: -100px !important;
+}
+
+.svelte-tabs {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px !important;
+    text-align: left;
+}
+
+.svelte-tabs li.svelte-tabs__tab {
+    color: #B8B8B8;
+    border: none;
+    text-align: left !important;
+    font-size: 20px !important;
+}
+
+.svelte-tabs li.svelte-tabs__selected {
+    color: #474747;
+    border-bottom: 3px solid #D3A263;
+}
+
+.svelte-tabs__tab-list {
+    border-bottom: none !important;
+    text-align: left !important;
+
+}
+.svelte-tabs__tab:focus {
+    outline: none !important;
+    text-align: left !important;
 }
