@@ -125,7 +125,9 @@
                 <div>
                     <h3 class="top-10 flex flex-10 color-black title-prog">Program #SatuDesaSatuProduk</h3>
                     <p class="top-20 desc-program">Program #SatuDesaSatuProduk adalah sebuah program dimana para penduduk lokal mengembangkan sebuah produk maupun jasa yang akan menjadi produk khas dan kebanggaan wilayah lokal mereka, sehingga memiliki nilai kompetitif baik di pasar nasional maupun global. Dengan program ini Indonesia akan maju dalam bidang ekonomi kreatif</p>
-                    <button class="btn-program top-40"><p class="color-white">Daftarkan Desamu</p></button>
+                    <a href="/program">
+                        <button class="btn-program top-40"><p class="color-white">Dukung Program</p></button>                    
+                    </a>
                 </div>
             </div>
         </div>
