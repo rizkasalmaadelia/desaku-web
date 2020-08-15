@@ -237,8 +237,8 @@ hr {
     /* margin-bottom: 7px; */
 }
 .card-toko img:hover {
-    box-shadow: 0px 3px 50px rgba(0, 0, 0, 0.5);
-    transition: 0.1s ease;
+    /* box-shadow: 0px 3px 50px rgba(0, 0, 0, 0.5); */
+    transition: 0.2s ease;
 }
 .card img {
     position: relative;

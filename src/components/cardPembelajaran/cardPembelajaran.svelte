@@ -3,7 +3,7 @@
 </script>
 
  <div class="card card-pembelajaran">
-    <a href="pembelajaran/online/detail">
+    <a href="/pembelajaran/online/detail">
         <img class="" src={pembelajaranImage} alt="pembelajaran">
     </a>
     <div class="textOnCard">
