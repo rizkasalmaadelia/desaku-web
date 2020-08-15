@@ -30,6 +30,7 @@
             <div class="row flex warp">
                 <h3 class="top-10 flex flex-10">Video Pembelajaran Keterampilan</h3>
                 <a href="">
+                    <br>
                     <span class="flex right color-main">Lihat Selengkapnya</span>
                 </a>
             </div>
