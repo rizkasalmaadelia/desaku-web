@@ -10,7 +10,7 @@
   import Toko from "./pages/toko";
   import DetailToko from "./pages/detailToko";
   import Pengiriman from "./pages/pengiriman";
-  
+  import Program from "./pages/program";
   
   export let url = "";
 </script>
@@ -26,6 +26,7 @@
     <Route path="toko" component="{Toko}" />
     <Route path="toko/detail" component="{DetailToko}" />
     <Route path="order/pengiriman" component="{Pengiriman}" />
+    <Route path="program" component="{Program}" />
     <Route path="/"><Home /></Route>
   </div>
 </Router>
