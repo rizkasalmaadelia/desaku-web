@@ -11,7 +11,7 @@
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
                 <img class="none" src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418706/desaku/icon/kategori_icon_zewtke.svg" alt="">
                 <span>&nbsp;</span>
-                <a href="">
+                <a href="?">
                     <span class="navbar-item">Kategori</span>
                 </a>            
             </div>
@@ -22,10 +22,10 @@
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href=""><span class="navbar-item active">Toko Online</span></a>
+                <a href="?"><span class="navbar-item active">Toko Online</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href=""><span class="navbar-item active">Pembelajaran</span></a>
+                <a href="pembelajaran/online"><span class="navbar-item active">Pembelajaran</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
                 <img src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418685/desaku/icon/search_sdbb5e.svg" alt="">
@@ -33,10 +33,10 @@
             </div>
 
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen login">
-                <a href=""><span class="navbar-item">Login</span></a>
+                <a href="?"><span class="navbar-item">Login</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href=""><span class="navbar-item">Register</span></a>
+                <a href="?"><span class="navbar-item">Register</span></a>
             </div>
 
             <div class="hidden">

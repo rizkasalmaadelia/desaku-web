@@ -3,7 +3,7 @@
 </script>
 
 <div class="card-toko">
-    <a href="#">
+    <a href="?">
         <img class="flex-12 flex-md-12" src={productImage} alt="toko">
     </a>
     <div class="textOnCard-toko">
