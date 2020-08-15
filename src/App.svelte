@@ -8,6 +8,7 @@
   import PembelajaranOffline from "./pages/pembelajaranOffline";
   import PembelajaranOfflineDetail from "./pages/detailPembelajaranOffline";
   import Toko from "./pages/toko";
+  import DetailToko from "./pages/detailToko";
   
   export let url = "";
 </script>
@@ -21,6 +22,7 @@
     <Route path="pembelajaran/offline" component="{PembelajaranOffline}" />
     <Route path="pembelajaran/offline/detail" component="{PembelajaranOfflineDetail}" />
     <Route path="toko" component="{Toko}" />
+    <Route path="toko/detail" component="{DetailToko}" />
     <Route path="/"><Home /></Route>
   </div>
 </Router>

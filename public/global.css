@@ -575,6 +575,10 @@ hr {
 .btn-program:hover {
     background: #996522;
 }
+.btn-program-nocolor {
+    color: #996522 !important;
+    background: white;
+}
 .color-main {
     color: var(--main-color) !important;
 }
