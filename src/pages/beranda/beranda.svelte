@@ -136,7 +136,7 @@
             <hr class="title">
             <div class="row flex warp">
                 <h3 class="top-10 flex flex-10">Pembelajaran Offline</h3>
-                <a href="?">
+                <a href="/pembelajaran/offline">
                     <br>
                     <span class="flex right color-main">Lihat Selengkapnya</span>
                 </a>
