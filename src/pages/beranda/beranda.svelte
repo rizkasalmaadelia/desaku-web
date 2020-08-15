@@ -5,6 +5,7 @@
     import Footer from "../../components/footer";
     import CardToko from "../../components/cardToko";
     import CardPembelajaran from "../../components/cardPembelajaran";
+    import CardPembelajaranOffline from "../../components/cardPembelajaranOffline";
     import * as dataHome from "../../data/dataHome";
 </script>
 
@@ -47,7 +48,7 @@
 
     <div style="margin-top:450px !important;"></div>
 	<!-- card pembelajaran -->
-    
+
     <br><br>
     <div class="card-toko-onRes">
         <div class="container">
@@ -120,14 +121,38 @@
                     <img src="https://res.cloudinary.com/sarjanalidi/image/upload/v1597418737/desaku/image/program_uqxheu.png" alt="">
                 </div>  
                 <div>
-                    <h3 class="top-10 flex flex-10 color-black title-prog">Program 1 Desa 1 keterampilan</h3>
-                    <p class="top-20 desc-program">Program satu desa 1 keterampilan adalah sebuah program dimana para penduduk lokal mengembangkan sebuah produk maupun jasa yang akan menjadi produk khas dan kebanggaan wilayah lokal mereka, sehingga memiliki nilai kompetitif baik di pasar nasional maupun global. Dengan program ini Indonesia akan maju dalam bidang ekonomi kreatif</p>
+                    <h3 class="top-10 flex flex-10 color-black title-prog">Program #SatuDesaSatuProduk</h3>
+                    <p class="top-20 desc-program">Program #SatuDesaSatuProduk adalah sebuah program dimana para penduduk lokal mengembangkan sebuah produk maupun jasa yang akan menjadi produk khas dan kebanggaan wilayah lokal mereka, sehingga memiliki nilai kompetitif baik di pasar nasional maupun global. Dengan program ini Indonesia akan maju dalam bidang ekonomi kreatif</p>
                     <button class="btn-program top-40"><p class="color-white">Daftarkan Desamu</p></button>
                 </div>
             </div>
         </div>
     </div>
+    
+    <div class="pelatihan top-80">
+        <div class="container">
+            <hr class="title">
+            <div class="row flex warp">
+                <h3 class="top-10 flex flex-10">Pembelajaran Offline</h3>
+                <a href="">
+                    <span class="flex right color-main">Lihat Selengkapnya</span>
+                </a>
+            </div>
 
+            {#each dataHome.default[2].favoritePembelajaranOffline as datas}
+                <CardPembelajaranOffline 
+                    pembelajaranImage={datas.pembelajaranImage}
+                    pembelajaranDate={datas.pembelajaranDate}
+                    pembelajaranDesa={datas.pembelajaranDesa}
+                    pembelajaranKab={datas.pembelajaranKab}
+                    pembelajaranPrice={datas.pembelajaranPrice}
+                    pembelajaranName={datas.pembelajaranName}
+                    pembelajaranDesc={datas.pembelajaranDesc}
+                />    
+            {/each}
+                      
+        </div>
+    </div>
 	<!-- card pembelajaran offline -->
 
     <div class="testimoni top-80">
