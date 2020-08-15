@@ -22,7 +22,7 @@
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="?"><span class="navbar-item active">Toko Online</span></a>
+                <a href="/toko"><span class="navbar-item active">Toko Online</span></a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
                 <a href="pembelajaran/online"><span class="navbar-item active">Pembelajaran</span></a>

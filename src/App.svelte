@@ -7,6 +7,7 @@
   import PembelajaranOnlineVideo from "./pages/listVideoOnline";
   import PembelajaranOffline from "./pages/pembelajaranOffline";
   import PembelajaranOfflineDetail from "./pages/detailPembelajaranOffline";
+  import Toko from "./pages/toko";
   
   export let url = "";
 </script>
@@ -19,6 +20,7 @@
     <Route path="pembelajaran/online" component="{PembelajaranOnline}" />
     <Route path="pembelajaran/offline" component="{PembelajaranOffline}" />
     <Route path="pembelajaran/offline/detail" component="{PembelajaranOfflineDetail}" />
+    <Route path="toko" component="{Toko}" />
     <Route path="/"><Home /></Route>
   </div>
 </Router>

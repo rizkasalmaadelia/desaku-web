@@ -21,12 +21,14 @@
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="/toko"><span class="navbar-item active color-black">Toko Online</span></a>
+                <a href="/toko" class="button-hovered">
+                    <button class="navbar-backgrond"></button>
+                    <span class="navbar-item actived color-black">Tokoonline</span>
+                </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
-                <a href="/pembelajaran/online" class="button-hovered">
-                    <button class="navbar-backgrond"></button>
-                    <span class="navbar-item actived color-black">Pembelajaran</span>
+                <a href="/pembelajaran/online">
+                    <span class="navbar-item active color-black">Pembelajaran</span>
                 </a>
             </div>
             <div class="flex-xxl-1 flex-xl-1 flex-lg-1 flex-md-12 flex justify-beetwen">
