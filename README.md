@@ -1,104 +1,61 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
-
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+# Desaku ![logo](https://res.cloudinary.com/sarjanalidi/image/upload/v1597418683/desaku/icon/black-logo_qlpkq0.svg)
 
 
-## Get started
+## What is this 😆😆
 
-Install the dependencies...
+Desaku is a platform to introduce products and skills from every village in Indonesia. With learning and E Commerce features.
 
-```bash
-cd svelte-app
-npm install
-```
-
-...then start [Rollup](https://rollupjs.org):
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
-By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
+We have program ```#SatuDesaSatuProduk``` that local residents develop a product or service that will become a unique product and the pride of their local area, so that it has competitive value in both national and global markets. With this program Indonesia will advance in the creative economy
 
 
-## Building and running in production mode
+## Inspiration 🔥🔥🔥
+In 2019 Indonesia has a total of 74,954 villages, but 55,369 are still classified as developing villages, even as many as 14,461 are still underdeveloped villages, and only 5,606 independent villages.
 
-To create an optimised version of the app:
+Of the 74 thousand villages in Indonesia, how many village products do we know? Only a handful of products can be marketed outside the city. The potential of this village must be explored continuously to become an economically independent village.
 
-```bash
-npm run build
-```
+For this reason, desaku took the initiative, to participate in helping UMKM in the village so that their products are famous and can go international.
+```#desagointernational```
 
-You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
+To make this happen, we have a ```#SatuDesaSatuProduk``` program, with the ```#SatuDesaSatuProduk``` program, we believe that if one village has one product, it is no longer a dream for all villages in Indonesia to be economically independent, and Indonesia will be more advanced.
+
+## What the impact ✨✨✨✨
+#### Increase Village Income
+
+With Desaku the Village Government can sell their village-specific 
+skills here
+
+#### Introducing Village Specific Skills
+Desaku Will Promote Village Skills to the World So that it can be known to the wider community
+
+#### Village Community Empowerment
+With Desau, people can learn more about the skills they want to learn online and offline
+
+#### Improve the Economy of Village Communities
+With my village, people can do economic activities online, practically and easily
 
 
-## Single-page app mode
+## How we build it ☕☕
 
-By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
+#### Svelte is a compiler
+Most of the frameworks like React, Vue, etc. Including large enough runtime code in the production bundle to support their features, but Svelte is not a runtime frame but a compile time frame.
 
-If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `"start"` command in package.json:
+#### Small Bundles
+Svelte will produce a relatively smaller bundle size than other UI frameworks, so the time it takes for the browser to download our application assets is faster.
 
-```js
-"start": "sirv public --single"
-```
+#### Less Code
+Less code to read means less code to understand, it also means less room for bugs to hide 🤣
 
-## Using TypeScript
+#### Blazing Fastt !!
+A few days ago I read a blog about performance problems in the Tokopedia application, and interestingly the Tokopedia engineering team used Svelte as a solution, from 320 kB (React) to 37 kB (Svelte), the audit performance reached 97 and could be interactive within 3.5 seconds 😮 You can read the blog here: 
 
-This template comes with a script to set up a TypeScript development environment, you can run it immediately after cloning the template with:
+https://medium.com/tokopedia-engineering/achieving-90-mobile-web-performance-at-tokopedia-23f557d98d5
 
-```bash
-node scripts/setupTypeScript.js
-```
+In Rich Harris's presentation entitled "Rethinking Reactivity", there he talked about application performance problems that had been surveyed by Svelte, one of which was Stone, a company in Brazil that made a POS (Point of Sales) System with more than 200,000 devices, they have tried build applications using React, Vue and other UI Framework but they are still not satisfied with the performance, after they tried to build it using Svelte, Boom !! the performance problem has been resolved
 
-Or remove the script via:
+## What's Next for Desaku ?😁😁
+We will perform Usability Testing on users, and lobby to cooperate with the village government. For starters, we will conduct research in Central Java.
 
-```bash
-rm scripts/setupTypeScript.js
-```
+If we success in Central Java, with Asyncronus product development we will expand partners throughout Indonesia
 
-## Deploying to the web
-
-### With [Vercel](https://vercel.com)
-
-Install `vercel` if you haven't already:
-
-```bash
-npm install -g vercel
-```
-
-Then, from within your project folder:
-
-```bash
-cd public
-vercel deploy --name my-project
-```
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public my-project.surge.sh
-```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
